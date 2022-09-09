@@ -9,3 +9,4 @@ function fib(n){
     sum += fib(n-1) + fib(n-2)
     return sum
      }
+console.log(fib(7))
